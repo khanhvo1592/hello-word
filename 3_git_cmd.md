@@ -9,4 +9,9 @@ With Git, you can do that with pull.
 - merge
 
 ## Git Fetch
-    fetch gets all the change history of a tracked branch/repo.
+`git fetch`
+>fetch gets all the change history of a tracked branch/repo.
+
+
+>In local Git, fetch updates to see what has changed on GitHub:
+

@@ -1,11 +1,11 @@
 # Project hoc git
-Git Tutorial
-Git HOME
-Git Intro
-Git Get Started
-Git New Files
-Git Staging Environment
-Git Commit
-Git Help
-Git Branch
-Git Branch Merge
+1. Git Tutorial
+2. Git HOME
+3. Git Intro
+4. Git Get Started
+5. Git New Files
+6. Git Staging Environment
+7. Git Commit
+8. Git Help
+9. Git Branch
+10. Git Branch Merge
